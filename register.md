@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authorship Guidelines
+title: register
 permalink: /authorship_guidelines/
 ---
 ***
