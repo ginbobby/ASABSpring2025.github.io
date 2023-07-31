@@ -1,7 +1,7 @@
 ---
 layout: page
-title: register
-permalink: /authorship_guidelines/
+title: Register
+permalink: /register/
 ---
 ***
 
