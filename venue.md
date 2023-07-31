@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "venue"
-permalink: /drivers/
+permalink: /venue/
 ---
 ***
 
