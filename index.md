@@ -4,9 +4,6 @@ layout: default
 
 <!-- Section -->
 <section>
-	<header class="major">
-		<h2>Projects</h2>
-	</header>
 	<div class="posts">
 		<article>
 			<a href="{{ 'drivers' | absolute_url }}" class="image"><img src="assets/images/Crab Logo RGB.jpg" width="200" alt="" /></a>
