@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Programme"
+permalink: /programme/
+---
+
+
 <h3>Day 1: 0th April 2024</h3>
 
 <table>
