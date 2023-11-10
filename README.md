@@ -1,6 +1,6 @@
 # ASAB Easter 2024 Website
 
-Source code for [https://ASABEaster2024.github.io/](https://ASABEaster2024.github.io/)
+Source code for [https://ASABSpring2024.github.io/](https://ASABSpring2024.github.io/)
 
 # Acknowledgements
 
