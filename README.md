@@ -4,7 +4,7 @@ Source code for [https://ASABSpring2024.github.io/](https://ASABSpring2024.githu
 
 # Acknowledgements
 
-The ASABEaster2024 team would like to thank Julia Watzek, the builder of the ManyPrimates website who's base code we utilised for this website (details provided below). Julia provided her invaluable knowledge and guidance in the creation of the MacaqueNet website. 
+The ASABSpring2024 team would like to thank Julia Watzek, the builder of the ManyPrimates website who's base code we utilised for this website (details provided below). Julia provided her invaluable knowledge and guidance in the creation of the MacaqueNet website. 
 
 ## Structure 
 
