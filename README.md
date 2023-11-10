@@ -1,4 +1,4 @@
-# ASAB Easter 2024 Website
+# ASAB Spring 2024 Website
 
 Source code for [https://ASABSpring2024.github.io/](https://ASABSpring2024.github.io/)
 
