@@ -11,19 +11,18 @@ permalink: /venue/
 
 ***
 
-Our Location 
+<h3>Our Location</h3>
 The University of Exeter Streatham Campus
-ASABEaster2024@gmail.com
-Getting Here 
+<h3>Getting Here </h3>
 It’s easier to get to the University of Exeter than you might think: The university is on the outskirts of the city of Exeter, which is next to the M5 motorway and has an airport and a main train line to London Paddington. There are direct trains from London (~2-3 hours) and Manchester (~4 hours)
-International travel
+<h3>International travel </h3>
 The nearest airports are Exeter Airport and Bristol Airport. The nearest port is Portsmouth (<3 hours by train) which has direct sailings from France (e.g. Caen, Cherbourg) and Spain (e.g. Bilbao, Santander).
-Accommodation
+<h3>Accommodation </h3>
 There is a range of accommodation available within walking distance of the campus. 
-Local Maps
-Accommodation
-Exeter University Main Arts
-Campus Map
+<h3>Campus Map </h3>
+<h3>Exeter Maps </h3>
+<h3>Accommodation </h3>
+
 
 
 
