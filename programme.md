@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Programme"
-permalink: /plenary/
+permalink: /programme/
 ---
 
 <h3>Day 1: Tuesday 23rd April 2024</h3>
