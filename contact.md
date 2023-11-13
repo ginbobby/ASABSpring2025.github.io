@@ -10,16 +10,8 @@ This conference is organised by Prof Lauren Brent, Dr Sam Ellis, Dr Andrew Higgi
 
 <p>Your organisers (L:R): Sam Ellis, Lisa Leaver, Joah Madden, Andrew Higginson, Lauren Brent </p>
 
-
+<a href="mailto:asabeaster2024@gmail.com" target="_blank">Email Us</a
 University of Exeter, 
 Streatham Campus
 Northcote House
 Exeter EX4 4QJ
-
-
-
-<li class="fa-envelope-o">
-  <a href="mailto:{{asabeaster2024@gmail.com}}" target="_blank"
-                        >{{ email us }}</a
-                    >
-                </li>
