@@ -1,15 +1,15 @@
 # Site settings
-title: ASABEaster2024
+title: ASABSpring2024
 subtitle: 
-email: ASABEaster2024@gmail.com
+email: ASABSpring2024@gmail.com
 description: An animal behaviour conference
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://ASABEaster2024.github.io" # the base hostname & protocol for your site
-author: ASABEaster2024
+url: "https://ASABSpring2024.github.io" # the base hostname & protocol for your site
+author: ASABSpring2024
 lang: en_US
 
 # Social settings
-github_url: https://github.com/ASABEaster2024
+github_url: https://github.com/ASABSpring2024
 
 # Build settings
 markdown: kramdown
