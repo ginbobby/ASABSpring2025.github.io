@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Programme"
+permalink: /plenary/
+---
+
 <h3>Day 1: Tuesday 23rd April 2024</h3>
 
 <table>
