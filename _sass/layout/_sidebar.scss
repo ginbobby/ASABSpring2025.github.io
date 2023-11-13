@@ -17,15 +17,15 @@
 				content: '\f002';
 				cursor: default;
 				display: block;
-				font-size: 1.5em;
-				height: _size(element-height) / 1.25;
-				line-height: _size(element-height) / 1.25;
+				font-size: 1.25em;
+				height: _size(element-height) / 1.05;
+				line-height: _size(element-height) / 1.05;
 				opacity: 0.325;
 				position: absolute;
 				right: 0;
 				text-align: center;
 				top: 0;
-				width: _size(element-height) / 1.25;
+				width: _size(element-height) / 1.05;
 			}
 
 			input[type="text"] {
