@@ -6,17 +6,20 @@ layout: default
 <section>
 	<div class="posts">
 		<article>
-			<a href="{{ 'drivers' | absolute_url }}" class="image"><img src="assets/images/Crab Logo RGB.jpg" width="200" alt="" /></a>
-			<h3>ASAB</h3>
-			<p>Animal Behaviour Conference</p>
-			<ul class="actions">
-				<li><a href="{{ 'drivers' | absolute_url }}" class="button">Learn more</a></li>
-			</ul>
+			      <h4>Spring conference of the Association for the Study of Animal Behaviour at the University of Exeter, U.K.</h4>
+			      <p>This conference is your opportunity to showcase your animal behaviour research to a global audience! The three days will be split into a one-day workshop and two days of conference sessions.</p>
+			      <ul>
+			        <li>Tuesday 23rd April: Workshop in use of AI in research</li>
+			        <li>Wednesday, 24th April  and Thursday, 25th April: Conference sessions</li>
+			      </ul>
+			            
+			     <p>ASAB's Spring meeting is aimed at postgraduate students and postdocs but is open to anyone interested in animal behaviour. There will be three plenaries by leading researchers and the presentation by the winner of the Christopher Barnard award 2024. </p>
+			        
+			      <p>Exeter is set amongst spectacular scenery on the Devon Coast, between the wilds of Dartmoor and the Exe estuary, and is easy to get to using public transport. </p>
+			        
+			      <p>Come join us! </p>
 		</article>
 		
 	</div>
 </section>
-
-<div style="text-align:center"><img class="image" src="/assets/images/University_of_Exeter,_Streatham_Campus_-_geograph.org.uk_-_1004277.jpg" width="1000" height="auto"/></div><br/>
-
 
