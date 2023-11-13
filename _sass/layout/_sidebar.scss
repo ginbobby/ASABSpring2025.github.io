@@ -18,14 +18,14 @@
 				cursor: default;
 				display: block;
 				font-size: 1.5em;
-				height: _size(element-height) / 1;
-				line-height: _size(element-height) / 1;
+				height: _size(element-height) / 1.25;
+				line-height: _size(element-height) / 1.25;
 				opacity: 0.325;
 				position: absolute;
 				right: 0;
 				text-align: center;
 				top: 0;
-				width: _size(element-height) / 1;
+				width: _size(element-height) / 1.25;
 			}
 
 			input[type="text"] {
