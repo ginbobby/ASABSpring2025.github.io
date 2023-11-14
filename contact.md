@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "contact"
 permalink: /about/
 ---
 This conference is organised by Prof Lauren Brent, Dr Sam Ellis, Dr Andrew Higginson, and Dr Lisa Leaver, of the Centre for Research in Animal Behaviour in Psychology in the Faculty of Health & Life Sciences. 
