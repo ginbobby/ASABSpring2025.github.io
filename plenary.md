@@ -27,4 +27,4 @@ permalink: /plenary/
 <h3>Coffee meet-ups</h3>
 <h4>Chats with members of the Centre for Research in Animal Behaviour, Exeter</h4>
 <p>During the morning coffee breaks (24th  and 25th April), conference participants have opportunity to meet some of the researchers of the Centre for Research in Animal Behaviour at Exeter.   
-If you would like to have a chat over coffee with any of the CRAB members listed below, then send us an email with the subject “ASAB Spring 2024 coffee meetup", telling us which members you’d like to chat with. We expect that each member will attend one of these meet-ups during the conference, with everyone who expressed an interest in meeting them. </p>
+If you would like to have a chat over coffee with any of the CRAB members listed below, then send us <a href="mailto:ASABSpring2024@gmail.com" target="_blank">an email</a> with the subject “ASAB Spring 2024 coffee meetup", telling us which members you’d like to chat with. We expect that each member will attend one of these meet-ups during the conference, with everyone who expressed an interest in meeting them. </p>
