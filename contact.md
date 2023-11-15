@@ -8,7 +8,7 @@ This conference is organised by   Sam Ellis, Lisa Leaver, Andrew Higginson, and 
 
 <div style="text-align:center"><img class="image" src="/assets/images/organisers.png" /></div><br/>
 
-<p>Your organisers (L:R): Dr Sam Ellis, Dr Lisa Leaver, Prof Joah Madden, Dr Andrew Higginson, Prof Lauren Brent </p>
+<p>Your organisers (L:R): Dr Sam Ellis, Dr Lisa Leaver, Dr Andrew Higginson, Prof Lauren Brent </p>
 
 <a href="mailto:ASABSpring2024@gmail.com" target="_blank">Email Us</a>
 
