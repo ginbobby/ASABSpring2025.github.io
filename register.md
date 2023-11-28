@@ -9,7 +9,7 @@ permalink: /register/
 <h4>Abstract submission will close 5pm Friday 9th February.</h4>
 <h4>Registration will close Friday 15th March.</h4>
 
-<p>To confirm your attendance, send payment by bank transfer and complete the online registration form, which includes the option for submission of abstract for talk, flash talk, and/or poster presentation - see "Information for presenters"). You will receive a confirmation e-mail once your form is complete and payment is confirmed. </p>
+<p>To confirm your attendance, send money to the university at  <a href="https://store.exeter.ac.uk/">this link</a> and complete the <a href="https://store.exeter.ac.uk/">online registration form</a>, which includes the option for submission of abstract for talk, flash talk, and/or poster presentation (see "Information for presenters"). You will receive a confirmation e-mail once your form is complete and payment is confirmed. </p>
 
 <h4>Payment</h4>
 If you’re not yet an ASAB member, join <a href="https://asab.wildapricot.org/">here</a>. You can apply for membership at the same time as you apply for a grant. 
