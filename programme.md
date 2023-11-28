@@ -4,8 +4,8 @@ title: "Programme"
 permalink: /programme/
 ---
 
-<h3>Day 1: Tuesday 23rd April 2024</h3>
-
+<h2>Day 1: Tuesday 23rd April 2024</h2>
+<h4>Workshop on using AI in research</h4>
 <table>
   <tr>
     <th>Time</th>
@@ -60,8 +60,8 @@ permalink: /programme/
 </table>
 
   
-<h3>Day 2: Wednesday 24th April 2024</h3>
-
+<h2>Day 2: Wednesday 24th April 2024</h2>
+<h4>Conference</h4>
 <table>
   <tr>
     <th>Time</th>
@@ -121,12 +121,12 @@ permalink: /programme/
   <tr>
     <td>20:00 - 23:00</td>
     <td>Conference party</td>
-    <td>Club</td>
+    <td>Exeter Phoenix Arts Venue</td>
   </tr> 
 </table>
 
-<h3>Day 3: Thursday 25th April 2024</h3>
-
+<h2>Day 3: Thursday 25th April 2024</h2>
+<h4>Conference</h4>
 <table>
   <tr>
     <th>Time</th>
