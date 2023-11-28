@@ -3325,9 +3325,9 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 					}
 
 					.features article .icon:after {
-						height: 4em;
-						margin: -2em 0 0 -2em;
-						width: 4em;
+						height: 2em;
+						margin: -1em 0 0 -1em;
+						width: 2em;
 					}
 
 		}
@@ -3564,7 +3564,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		}
 
 			#main > .inner > section {
-				padding: 6em 0 4em 0 ;
+				padding: 3em 0 2em 0 ;
 				border-top: solid 2px rgba(210, 215, 217, 0.75);
 			}
 
@@ -3587,11 +3587,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		@media screen and (max-width: 1280px) {
 
 			#main > .inner {
-				padding: 0 4em 0.1em 4em ;
+				padding: 0 2em 0.1em 2em ;
 			}
 
 				#main > .inner > section {
-					padding: 4em 0 2em 0 ;
+					padding: 2em 0 2em 0 ;
 				}
 
 		}
@@ -3599,11 +3599,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		@media screen and (max-width: 736px) {
 
 			#main > .inner {
-				padding: 0 2em 0.1em 2em ;
+				padding: 0 1em 0.1em 1em ;
 			}
 
 				#main > .inner > section {
-					padding: 3em 0 1em 0 ;
+					padding: 1.5em 0 0.5em 0 ;
 				}
 
 		}
