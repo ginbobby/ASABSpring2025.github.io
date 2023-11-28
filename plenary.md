@@ -3,7 +3,7 @@ layout: page
 title: "Plenary speakers"
 permalink: /plenary/
 ---
-<h3>Prof Sigrunn Eliassen (University of Bergen) </h3>
+<h3>Professor Sigrunn Eliassen (University of Bergen) </h3>
 <div style="text-align:left"><img class="image" src="/assets/images/Eliassen.jpg" alt="Sigrunn Eliaseen" width="300" height="300" /></div><br/>
 <h4>Emotions and decision-making</h4>
 <p>Sigrunn Eliassen is a professor in evolutionary ecology at the Department of biological sciences, University of Bergen, Norway. She is also an Excellent Teaching Practitioner with special interest in research-based teaching and is currently Vice Dean of Education at the Science faculty. Eliassen’s research focuses on the evolution of mating systems and cooperative behaviours. Using evolutionary modelling, she studies how mating strategies change the incentives of males and females to invest in parental care and cooperation within a group. She is also interested in how animals use information and learn. With colleagues, she has studied mechanisms of decision-making and developed a new framework for behavioural modelling.</p>
