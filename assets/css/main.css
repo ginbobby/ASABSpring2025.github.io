@@ -2081,7 +2081,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #7f888f;
+		color: #303030;
 		font-family: "Avenir-Next", "Nunito", "Fira-Sans",sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -2444,7 +2444,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #7f888f;
+			color: #303030;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -3629,7 +3629,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			-webkit-transform: scaleX(-1);
 			-ms-transform: scaleX(-1);
 			transform: scaleX(-1);
-			color: #7f888f;
+			color: #303030;
 			content: '\f002';
 			cursor: default;
 			display: block;
@@ -3839,7 +3839,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			}
 
 				#sidebar .toggle:before {
-					color: #7f888f;
+					color: #303030;
 					margin-left: -0.0625em;
 					margin-top: -0.25em;
 					font-size: 1.1rem;
