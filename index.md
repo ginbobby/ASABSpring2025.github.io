@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-
-
+<div style="text-align:center">
+  <img class="image center" src="/assets/images/banner_composite_image.jpg">
+</div>
+  
 <h4>Spring conference of the Association for the Study of Animal Behaviour at the University of Exeter, U.K.</h4>
 <p>This conference is your opportunity to showcase your animal behaviour research to a global audience! The three days will be split into a one-day workshop and two days of conference sessions.</p>
 <ul>
