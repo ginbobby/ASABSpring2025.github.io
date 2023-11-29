@@ -12,7 +12,7 @@ permalink: /presenters/
 </ul>
 
 <h3>Selection process</h3>
-Presentations will be selected based on the submitted abstract, which should be clear and concise (200 words maximum) and consist of: 
+Presentations will be selected based on the submitted title and abstract only (blind to speaker identity), which should be clear and concise (200 words maximum) and consist of: 
 <ul>
   <li>Brief background</li>
   <li>A clear question / aim</li>
