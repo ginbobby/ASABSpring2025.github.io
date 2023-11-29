@@ -2152,7 +2152,7 @@
 		margin: 0 0 1em 0;
 	}
 
-	h3 {
+	h3, h5 {
 		color: #3EB0AF;
 		font-family: "Avenir-Next", "Nunito", "Fira-Sans", sans-serif;
 		font-weight: 600;
@@ -2160,7 +2160,7 @@
 		margin: 0 0 1em 0;
 	}
 
-	h4, h5, h6 {
+	h4,  h6 {
 		color: #CFAB40;
 		font-family: "Avenir-Next", "Nunito", "Fira-Sans", sans-serif;
 		font-weight: 600;
