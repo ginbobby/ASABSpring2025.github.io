@@ -2152,7 +2152,7 @@
 		margin: 0 0 1em 0;
 	}
 
-	h3, h4 {
+	h3 {
 		color: #3EB0AF;
 		font-family: "Avenir-Next", "Nunito", "Fira-Sans", sans-serif;
 		font-weight: 600;
@@ -2160,7 +2160,7 @@
 		margin: 0 0 1em 0;
 	}
 
-	h5, h6 {
+	h4, h5, h6 {
 		color: #CFAB40;
 		font-family: "Avenir-Next", "Nunito", "Fira-Sans", sans-serif;
 		font-weight: 600;
@@ -2309,7 +2309,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 	}
 
 	header.major > :last-child {
-		border-bottom: solid 3px #80AA6C;
+		border-bottom: solid 3px #CFAB40;
 		display: inline-block;
 		margin: 0 0 2em 0;
 		padding: 0 0.75em 0.5em 0;
@@ -2766,7 +2766,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 				}
 
 				ul.contact li:before {
-					color: #80AA6C;
+					color: #CFAB40;
 					display: inline-block;
 					font-size: 1.5em;
 					height: 1.125em;
@@ -2889,7 +2889,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 				}
 
 					ul.pagination li > .page.active {
-						background-color: #80AA6C;
+						background-color: #CFAB40;
 						color: #ffffff !important;
 					}
 
@@ -3105,7 +3105,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #80AA6C;
+				background-color: #CFAB40;
 			}
 
 			input[type="submit"].special:active,
@@ -3113,7 +3113,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			input[type="button"].special:active,
 			button.special:active,
 			.button.special:active {
-				background-color: #80AA6C;
+				background-color: #CFAB40;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -3215,7 +3215,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			}
 
 				.features article .icon:before {
-					color: #80AA6C;
+					color: #CFAB40;
 					font-size: 2.75rem;
 					position: relative;
 					top: 0.05em;
@@ -3866,7 +3866,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		border-bottom: solid 5px #80AA6C;
+		border-bottom: solid 5px #CFAB40;
 		padding: 1em 0 1em 0;
 		position: relative;
 	}
