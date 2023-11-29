@@ -5,7 +5,7 @@ layout: default
   <img class="image center" src="/assets/images/banner_composite_image.jpg">
 </div>
   
-<h4>Spring conference of the Association for the Study of Animal Behaviour at the University of Exeter, U.K.</h4>
+<h3>Spring conference of the Association for the Study of Animal Behaviour at the University of Exeter, U.K.</h3>
 <p>This conference is your opportunity to showcase your animal behaviour research to a global audience! The three days will be split into a one-day workshop and two days of conference sessions.</p>
 <ul>
 <li>Tuesday 23rd April: Workshop in use of AI in research</li>
