@@ -4091,7 +4091,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 		}
 
 			#menu ul a:hover, #menu ul span:hover {
-				color: #CFAB40;
+				color: #3EB0AF;
 			}
 
 			#menu ul a.opener, #menu ul span.opener {
@@ -4125,7 +4125,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 				}
 
 				#menu ul a.opener:hover:before, #menu ul span.opener:hover:before {
-					color: #CFAB40;
+					color: #3EB0AF;
 				}
 
 				#menu ul a.opener.active + ul, #menu ul span.opener.active + ul {
