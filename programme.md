@@ -119,8 +119,8 @@ permalink: /programme/
     <td>Peter Chalk Foyer</td>
   </tr>
   <tr>
-    <td>20:00 - 23:00</td>
-    <td>Conference party</td>
+    <td>19:30 - 23:00</td>
+    <td>Conference dinner & <a href="https://www.devon-ceilidhs.com/">celidh</a></td>
     <td>Exeter Phoenix Arts Venue</td>
   </tr> 
 </table>
