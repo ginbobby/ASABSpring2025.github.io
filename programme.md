@@ -4,7 +4,7 @@ title: "Programme"
 permalink: /programme/
 ---
 
-<h2>Day 1: Tuesday 23rd April 2024</h2>
+<h3>Day 1: Tuesday 23rd April 2024</h3>
 <h4>Workshop on using AI in research</h4>
 <table>
   <tr>
@@ -60,7 +60,7 @@ permalink: /programme/
 </table>
 
   
-<h2>Day 2: Wednesday 24th April 2024</h2>
+<h3>Day 2: Wednesday 24th April 2024</h3>
 <h4>Conference</h4>
 <table>
   <tr>
@@ -125,7 +125,7 @@ permalink: /programme/
   </tr> 
 </table>
 
-<h2>Day 3: Thursday 25th April 2024</h2>
+<h3>Day 3: Thursday 25th April 2024</h3>
 <h4>Conference</h4>
 <table>
   <tr>
