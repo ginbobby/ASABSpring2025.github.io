@@ -15,7 +15,7 @@ permalink: /plenary/
 
 <h3>Prof Tom Treganza (University of Exeter)</h3>
 <div style="text-align:left"><img class="image" src="/assets/images/Treganza.jpg" alt="Tom Treganza" width="300" height="300" /></div><br/>
-<h4>Insect social lives</h4>
+<h4>Selection on insect behaviour in the wild</h4>
 <p><a href="http://www.selfishgene.org/Tom/index.htm">Tom Treganza</a> is a Professor of Evolutionary Ecology at the Centre for Ecology and Conservation at Exeter’s Penryn Campus in Cornwall. His research is about how natural and sexual selection operate in the wild.  For the last 15 years most of this research has been based in the WildCrickets meadow, which he has developed to study selection on the behaviour and life-histories of an insect in its natural habitat.  The approach is to individually mark every cricket in the population and then observe every detail of their adult lives using a network of ~140 infra-red CCTV cameras.  Observations of matings, fights, predation events and so-on are combined with DNA fingerprinting of subsequent generations to measure fitness consequences of behaviours and life-history strategies.  WildCrickets has provided insights into why females mate with so many males, how even short-lived insects senesce as they age and how selection varies among years.</p>
 
 <h3>Name TBA</h3>
