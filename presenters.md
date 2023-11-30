@@ -24,7 +24,7 @@ Presentations will be selected based on the submitted title and abstract only (b
 <p>We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.</p>
 
 <h3>Talks</h3>
-<p>Talks should be 12 minutes long, which allows 3 minutes for questions and discussion.</p>
+<p>Talks should be 12 minutes long, which allows 3 minutes for questions and discussion as each slot is 15 minutes.</p>
 <p>Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. The presentation will be on a Windows machine</p>
 <h3>Flash talks</h3>
 <p>Flash talks should be 2 minutes long. There will be no questions, as the flash talk acts as an advertisement for your poster. </p>
