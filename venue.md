@@ -15,8 +15,8 @@ permalink: /venue/
 <p>The nearest airports are Exeter Airport and Bristol Airport. The nearest port is Portsmouth (<3 hours by train) which has direct sailings from France (e.g. Caen, Cherbourg) and Spain (e.g. Bilbao, Santander).</p>
 <h3>Accommodation </h3>
 <p>There is a range of accommodation available within walking distance of the campus. </p>
-<h2>Campus Map </h2>
-<h2>Exeter Maps </h2>
+<h4>Campus Map </h4>
+<h4>Exeter Maps </h4>
 
 
 
