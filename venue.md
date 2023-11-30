@@ -12,7 +12,7 @@ permalink: /venue/
 <h3>Getting Here </h3>
 <p>It’s easier to get to the University of Exeter than you might think: The university is on the outskirts of the city of Exeter, which is next to the M5 motorway and has an airport and a main train line to London Paddington. There are direct trains from London (~2-3 hours) and Manchester (~4 hours)</p>
 <h4>International travel </h4>
-<p>The nearest airports are Exeter Airport and Bristol Airport. The nearest port is Portsmouth (<3 hours by train) which has direct sailings from France (e.g. Caen, Cherbourg) and Spain (e.g. Bilbao, Santander).</p>
+<p>The nearest <a href="https://www.skyscanner.net/">airports </a> are Exeter Airport and Bristol Airport. The nearest <a href="https://www.brittany-ferries.co.uk/">port is Portsmouth</p> (<3 hours by <a href="https://www.nationalrail.co.uk/">train</a>) which has direct sailings from France (e.g. Caen, Cherbourg) and Spain (e.g. Bilbao, Santander).</p>
 <h3>Accommodation </h3>
 <p>There is a range of accommodation available within walking distance of the campus. </p>
 <h4>Campus Map </h4>
