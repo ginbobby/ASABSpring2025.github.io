@@ -24,7 +24,7 @@ Presentations will be selected based on the submitted title and abstract only (b
 <p>We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.</p>
 
 <h4>Research Ethics</h4>
-<p>Presenters/authors must declare that all work has been carried out in accordance with ASAB/ABS’s <a href="https://www.sciencedirect.com/science/article/pii/S0003347222002469">Guidelines for the Treatment of Animals in Research</a>. We will not consider for presentation any research that failed to adhere to the highest standards of animal welfare, and may contact authors for clarification before considering a submission. If your research was invasive and/or experimental, there is a space on the registration form for clarifying how these standards were adhered to. </p>
+<p>Presenters/authors must declare that all work has been carried out in accordance with ASAB/ABS’s <a href="https://www.sciencedirect.com/science/article/pii/S0003347222002469">Guidelines for the Treatment of Animals in Research</a>. We will not consider for presentation any research that failed to adhere to the highest standards of animal welfare, and may contact authors for clarification before considering a submission. Note that these Guidelines are often more exacting than what is merely legal, such as the housing conditions of social species. If your research was invasive and/or experimental, there is a space on the registration form for clarifying how these standards were adhered to. </p>
 
 
 <h3>Talks</h3>
