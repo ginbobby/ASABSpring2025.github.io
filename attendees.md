@@ -3,11 +3,31 @@ layout: page
 title: "Information for Attendees"
 permalink: /attendees/
 ---
-<p>Please find on this page information regarding ASAB Spring 2024 conference and/or Exeter University's policy on code of conduct, equality, families, accessibility, social media, and sustainability.
-Conference attendees with any concerns or comments regarding the information below should e-mail us or speak to a conference organiser (in confidence) in the first instance.</p>
+<p>Please find on this page information regarding ASAB and/or Exeter University's policy on code of conduct, equality, families, accessibility, and social media. 
 
 <h3>Code of Conduct</h3>
-<p>We are committed to making this conference productive and enjoyable for all. We will not tolerate harassment of participants in any form. If you have a concern, e-mail us or speak to a conference organiser. </p>
+<p>The experience of the ASAB conference should be that of an inclusive, safe, and productive event. To do this we are committed to making this conference space welcoming for all. Therefore, we expect all participants of the conference to adhere to the ASAB Conference Code of Conduct outlined below. Please note that we reserve the right to ask any delegates that are not adhering to these behaviours to leave the meeting. </p>
+<h4>For delegates experiencing unacceptable behaviour:</h4>
+<p>Please contact the conference organiser or one of the conference moderators if you are experiencing behaviour that breaks our Code of Conduct. Conference organisers and moderators will be labelled with badges on the conference website. Alternatively, contact us in confidence <a href="mailto:ASABSpring2024@gmail.com">by email</a>.</p>
+<h4>Acceptable behaviour</h4>
+<ul>
+  <li>Treat all conference participants with respect, courtesy, and consideration.</li>
+  <li>Value the diversity of opinions and views that other conference participants have.</li>
+  <li>Avoid personal attacks are other delegates, and only critique ideas rather than personal critiques.</li>
+  <li>Request permission from the conference organiser and the speaker before recording video / audio presentations and discussions.</li>
+  <li>Presenters may request that their presentation is not shared on social media, and all attendees must respect this.</li>
+  <li>Being conscientious of ensuring that others have the opportunity to speak in group meetings.</li>
+</ul>
+<h4>Unacceptable behaviour</h4>
+<ul>
+  <li>Do not send abusive messages to any conference delegates, organisers, exhibitors, or any other meeting guest.</li>
+  <li>We have a zero-tolerance policy to bullying, harassment, and intimidation. This includes but is not limited to: negative comments about any protected categories (e.g ethnicity, gender, sexual orientation, disability).</li>
+  <li>Do not disrupt any aspect of the meeting, or interrupt the speakers and presenters.</li>
+  <li>Do no sexually harass delegates or share inappropriate images.  </li>
+</ul>
+<h4>Consequences</h4>
+<p>Conference organisers and moderators will contact anyone not following the conference Code of Conduct. We reserve the right to remove any delegate from the meeting and prohibit attendance for future conferences.</p>
+
 <h3>Equality</h3>
 <p>As a small conference event we seek to ensure an environment of mutual concern and respect for all individuals. We strive to achieve appropriate representation of women and men in line with the gender balance in our research community in all aspects of the ASAB Conference.</p>
 <h3>Families</h3>
@@ -32,9 +52,7 @@ Conference attendees with any concerns or comments regarding the information bel
   <li>Post inappropriate images or breach copyright</li>
   <li>Post images or re-distribute slides or data where the presenter has indicated “no social media”; such a symbol indicates that sharing may preclude subsequent publication of the data, embargo policies, or similar.</li>
 </ul>
-<h3>Sustainability</h3>
-<h4>At Exeter University we aim to:</h4>
-<li>Promote sustainability in research, business and enterprise activities</li>
+
 
 
 
