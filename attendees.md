@@ -7,7 +7,7 @@ permalink: /attendees/
 Conference attendees with any concerns or comments regarding the information below should e-mail us or speak to a conference organiser (in confidence) in the first instance.</p>
 
 <h3>Code of Conduct</h3>
-<p>We are committed to making this conference productive and enjoyable for all. We will not tolerate harassment of participants in any form. If you have a concern, e-mail us or speak to a conference organiser. </p><p>Presenters/authors must declare that all work has been carried out in accordance with ASAB/ABS’s <a href="https://www.sciencedirect.com/science/article/pii/S0003347222002469">Guidelines for the Treatment of Animals in Research.</a></p>
+<p>We are committed to making this conference productive and enjoyable for all. We will not tolerate harassment of participants in any form. If you have a concern, e-mail us or speak to a conference organiser. </p>
 <h3>Equality</h3>
 <p>As a small conference event we seek to ensure an environment of mutual concern and respect for all individuals. We strive to achieve appropriate representation of women and men in line with the gender balance in our research community in all aspects of the ASAB Conference.</p>
 <h3>Families</h3>
