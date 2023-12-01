@@ -23,6 +23,10 @@ Presentations will be selected based on the submitted title and abstract only (b
 <p>Please note that while we have limited space for talks all rejected talk submissions will be offered a poster slot. Please indicate in the registration form if you would like to give a flash talk along with your poster.</p>
 <p>We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.</p>
 
+<h4>Research Ethics</h4>
+<p>Presenters/authors must declare that all work has been carried out in accordance with ASAB/ABS’s <a href="https://www.sciencedirect.com/science/article/pii/S0003347222002469">Guidelines for the Treatment of Animals in Research</a>. We will not consider for presentation any research that failed to adhere to the highest standards of animal welfare, and may contact authors for clarification before considering a submission. If your research was invasive and/or experimental, there is a space on the registration form for clarifying how these standards were adhered to. </p>
+
+
 <h3>Talks</h3>
 <p>Talks should be 12 minutes long, which allows 3 minutes for questions and discussion as each slot is 15 minutes.</p>
 <p>Presentation slides should be saved in PowerPoint (.ppt) or PDF (.pdf) format on a flash drive which you should bring on the day. The presentation will be on a Windows machine</p>
