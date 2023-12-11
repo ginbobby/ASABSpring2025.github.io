@@ -5,7 +5,7 @@ permalink: /register/
 ---
 ***
 
-<h5>Registration and abstract submission will be open from</h5><h4> Tuesday 12th December</h4>
+<h5>Registration and abstract submission will be open from</h5><h4> Monday 18th December</h4>
 <h5>Abstract submission will close</h5><h4> Friday 9th February </h4>
 <h5>Registration will close</h5><h4> Friday 15th March</h4>
 
