@@ -11,8 +11,8 @@ permalink: /register/
 
 <h3>Payment</h3>
 <ul>
-  <li>Students: £TBC</li>
-  <li>Non-students: £TBC</li>
+  <li>Students: £80</li>
+  <li>Non-students: £110</li>
 </ul>
 <p>The attendance fee includes your registration, tea/coffee, lunches, and conference <a href="https://www.devon-ceilidhs.com/">celidh</a></p>
 
