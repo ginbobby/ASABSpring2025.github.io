@@ -20,7 +20,7 @@ permalink: /plenary/
 
 <h3>Dr Nobuaki Mizumoto (Auburn University)</h3>
 <h5>Christopher Barnard Award Winner</h5>
-<div style="text-align:left"><img class="image" src="/assets/images/Mizumoto.jpg" alt="Nobuaki Mizumoto" width="300" height="300" /></div><br/>
+<div style="text-align:left"><img class="image" src="/assets/images/Nobuaki.jpg" alt="Nobuaki Mizumoto" width="300" height="300" /></div><br/>
 <h4>Evolutionary perspectives of termite collective behavior</h4>
 <p>Nobuaki Mizumoto is a new Assistant Professor in Insect Ecology at the Department of Entomology and Plant Pathology at Auburn University, starting January 2024. He studies nest construction and movement coordination in termites to ask how collective-level phenomena are regulated by individual-level behaviors and how behavioral coordination has evolved in the history of life. His research is based on detailed behavioral observations and the life history of each termite species but extends the analysis to multiple species in a phylogenetic context to understand their environmental adaptation and evolutionary process. </p>
 
