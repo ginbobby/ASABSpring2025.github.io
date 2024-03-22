@@ -20,7 +20,7 @@ Presentations will be selected based on the submitted title and abstract only (b
   <li>Overall results</li>
   <li>Conclusions / significance</li>
 </ul>
-<p>Please note that while we have limited space for talks all rejected talk submissions will be offered a poster slot. Please indicate in the registration form if you would like to give a flash talk along with your poster.</p>
+<p>Please note that while we have limited space for talks all rejected talk submissions might be offered a poster slot. Please indicate in the registration form if you would like to give a flash talk along with your poster.</p>
 <p>We welcome speakers to deliver their talks in the language with which they are most comfortable, but we ask that your abstract and the text on your slides be in English.</p>
 
 <h4>Research Ethics</h4>
