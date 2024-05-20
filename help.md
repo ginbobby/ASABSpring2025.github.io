@@ -22,6 +22,6 @@
   <tr>
     <td>Col A2</td>
     <td>Col B2</td>
-    <td>Col B3/td>
+    <td>Col B3</td>
   </tr>
 </table>
