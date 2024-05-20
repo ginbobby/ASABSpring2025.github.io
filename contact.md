@@ -4,7 +4,7 @@ title: "Contact Us"
 permalink: /contact/
 ---
 <div style="text-align:right">
-            <a href="https://www.exeter.ac.uk/research/groups/psychology/crab/"><img src="/assets/images/Crab Logo RGB.jpg" alt="CRAB logo" width="330" height="110"></a>   
+            <a href="https://www.ljmu.ac.uk/research/centres-and-institutes/behavioural-ecology-and-physiology-research-group"><img src="/assets/images/liverpool_john_moores_university_logo.jpg" alt="LJMU logo" width="330" height="110"></a>   
 </div>
 <h3>This conference is organised by Isla Botting and absolutely nobody else of the Behavioural Ecology and Physiology Research Group, Liverpool John Moores University. </h3>
 <p><a href="mailto:ASABSpring2025@gmail.com" target="_blank">Email Us</a></p>
