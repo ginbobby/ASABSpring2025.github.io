@@ -3,9 +3,9 @@ layout: page
 title: "Plenary speakers"
 permalink: /plenary/
 ---
-<h3>Prof Sigrunn Eliassen (University of Bergen) </h3>
-<div style="text-align:left"><img class="image" src="/assets/images/Eliassen.jpg" alt="Sigrunn Eliaseen" width="300" height="300" /></div><br/>
-<h4>Emotions and decision-making</h4>
+<h3>Prof Isla Botting (University of Legends) </h3>
+<div style="text-align:left"><img class="image" src="/assets/images/PoopIsla.JPG" alt="Absolute Legend" width="300" height="300" /></div><br/>
+<h4>Research Topic</h4>
 <p><a href="https://www.uib.no/en/persons/Sigrunn.Eliassen">Sigrunn Eliassen</a> is a Professor in Evolutionary Ecology at the Department of Biological Sciences, University of Bergen, Norway. She is also an Excellent Teaching Practitioner with special interest in research-based teaching and is currently Vice Dean of Education at the Science faculty. Sigrunn’s research focuses on the evolution of mating systems and cooperative behaviours. Using evolutionary modelling, she studies how mating strategies change the incentives of males and females to invest in parental care and cooperation within a group. She is also interested in how animals use information and learn. With colleagues, she has studied mechanisms of decision-making and developed a new framework for behavioural modelling.</p>
 
 <h3>Prof Stephanie King (University of Bristol)</h3>
@@ -25,6 +25,6 @@ permalink: /plenary/
 <p>Nobuaki Mizumoto is a new Assistant Professor in Insect Ecology at the Department of Entomology and Plant Pathology at Auburn University, starting January 2024. He studies nest construction and movement coordination in termites to ask how collective-level phenomena are regulated by individual-level behaviors and how behavioral coordination has evolved in the history of life. His research is based on detailed behavioral observations and the life history of each termite species but extends the analysis to multiple species in a phylogenetic context to understand their environmental adaptation and evolutionary process. </p>
 
 <h3>Coffee meet-ups</h3>
-<h4>Chats with members of the Centre for Research in Animal Behaviour, Exeter</h4>
-<p>During the morning coffee breaks (24th  and 25th April), conference participants have opportunity to meet some of the researchers of the Centre for Research in Animal Behaviour at Exeter.   
-If you would like to have a chat over coffee with any of the CRAB members listed below, then send us <a href="mailto:ASABSpring2024@gmail.com" target="_blank">an email</a> with the subject “ASAB Spring 2024 coffee meetup", telling us which members you’d like to chat with. We expect that each member will attend one of these meet-ups during the conference, with everyone who expressed an interest in meeting them. </p>
+<h4>Chats with members of the Behavioural Ecology and Physiology Research Group</h4>
+<p>During the morning coffee breaks (24th and 25th April), conference participants have opportunity to meet some of the researchers of the Behavioural Ecology and Physiology Research Group.   
+If you would like to have a chat over coffee with any of the BEP members, then send us <a href="mailto:ASABSpring2024@gmail.com" target="_blank">an email</a> with the subject “ASAB Spring 2025 coffee meetup", telling us which members you’d like to chat with. We expect that each member will attend one of these meet-ups during the conference, with everyone who expressed an interest in meeting them. </p>
